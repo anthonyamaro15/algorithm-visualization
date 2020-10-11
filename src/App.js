@@ -1,9 +1,10 @@
 import React from "react";
+import SortingAlgo from "./components/SortingAlgo";
 
 function App() {
   return (
     <div className="App">
-      <h3>hello</h3>
+      <SortingAlgo />
     </div>
   );
 }
